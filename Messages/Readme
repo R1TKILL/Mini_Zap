@@ -1,0 +1,4 @@
+Este é um programa teste, que "simula" digamos um mini whatsap, porém apesar disso
+é um ótimo projeto para realizar comunicações entre maquinas pelos protocolos, o objetivo
+deste projeto é realizar conexões de clientes armazenados em uma lista por um servidor e 
+enviar dados entre os mesmos, especificndo um chat.
